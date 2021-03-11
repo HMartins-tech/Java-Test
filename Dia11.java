@@ -24,5 +24,5 @@ import java.util.Scanner;
         System.out.println(" ");
         System.out.println("O custo total das compras das maçãs foi de: " + m + "R$");
       }	
-	}
+}
 }
