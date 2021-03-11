@@ -2,7 +2,6 @@
 import java.util.Scanner;
 
 public class Dia1 {
-
 	public static void main(String[] args) {
 		
 		int a, b, area;
