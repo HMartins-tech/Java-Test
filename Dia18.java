@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prova26 {
+public class Dia18 {
 
 	public static void main(String[] args) {
 		int estoqueAtual, estoqueMaximo, estoqueMinimo, quantidadeMedia;
