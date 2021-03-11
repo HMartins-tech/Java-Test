@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Dia3 {
-
 	public static void main(String[] args) {
 		float eleitores, brancos, nulos, validos, somaBrancos, somaNulos, somaValidos;
 		
