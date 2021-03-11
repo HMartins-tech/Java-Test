@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Dia4 {
-
 	public static void main(String[] args) {
 		int salario, salarioNovo, reajuste;
 		
