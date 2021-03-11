@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prova19 {
+public class Dia14 {
 
 	public static void main(String[] args) {
 		int valor1, valor2;
