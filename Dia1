@@ -15,8 +15,7 @@ public class Dia1 {
 		System.out.println("Digite o valor da BASE do Triângulo: ");
 		b = imput.nextInt();
 		
-		area = (a*b);
-		
+		area = (a*b);		
 		System.out.println("A Área do Triângulo em M² é de: " + area + "m²");
 	}
 }
