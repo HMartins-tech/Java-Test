@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-  public class Prova16 {
+  public class Dia11 {
     public static void main(String[] args) {
       float maca, m, m2;
 
