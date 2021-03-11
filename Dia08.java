@@ -5,7 +5,7 @@ public class Dia8 {
 		float n1, n2, n3, media, soma;
 		
 		System.out.println("Bem-vindo, você quer ver qual foi sua média final nas 3 etapas do PAS? Então coloque suas notas aí ;)");
-		System.out.println("Sabemos que as notas do PAS são multiplicadas, a cada etapa. Por exemplo, multiplicamos a nota por3, na etapa 3.");
+		System.out.println("Sabemos que as notas do PAS são multiplicadas, a cada etapa. Por exemplo, multiplicamos a nota por 3, na etapa 3.");
 		
 		Scanner imput = new Scanner (System.in);
 		
