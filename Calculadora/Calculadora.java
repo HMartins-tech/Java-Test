@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Calculadora {
 	
 	public int som(int num1, int num2) {
