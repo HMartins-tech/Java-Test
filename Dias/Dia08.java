@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Dia8 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		float n1, n2, n3, media, soma;
 		
