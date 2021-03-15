@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prova42 {
+public class Dia25 {
     @SuppressWarnings({ "resource", "unused" })
 
     public static void main() {
