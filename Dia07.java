@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia7 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int C, F;
 		
