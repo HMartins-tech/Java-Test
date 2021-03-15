@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia16 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int valorVendas, comissao1, comissao2, salarioFixo;
 
