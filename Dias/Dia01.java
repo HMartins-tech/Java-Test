@@ -10,14 +10,14 @@ public class Dia1 {
 
 		Scanner imput = new Scanner(System.in);
 
-		System.out.println("Digite o valor da ALTURA do Tri�ngulo: ");
+		System.out.println("Digite o valor da ALTURA do Triângulo: ");
 		a = imput.nextInt();
 
-		System.out.println("Digite o valor da BASE do Tri�ngulo: ");
+		System.out.println("Digite o valor da BASE do Triângulo: ");
 		b = imput.nextInt();
 
 		area = (a * b);
 
-		System.out.println("A �rea do Tri�ngulo em M� � de: " + area + "m�");
+		System.out.println("A área do Triângulo em M² é de: " + area + "m�");
 	}
 }
