@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia13 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int anoA, anoN, conta, idade;
 		Scanner imput = new Scanner (System.in);
