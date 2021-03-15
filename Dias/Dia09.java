@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Dia9 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		float valor;
 		
