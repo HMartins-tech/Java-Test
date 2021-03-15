@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prova58 {
+public class Dia27 {
     @SuppressWarnings("resource")
     public static void main(String[] args) {
         int numero;
