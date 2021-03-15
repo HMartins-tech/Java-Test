@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Dia21 {
+public class Dia21 {	
+	@SuppressWarnings("resource")
 	public static void main (String [] args) {
 		String time, time1; 
 		int gols, gols1, vencedor, empate;
