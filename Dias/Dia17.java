@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia17 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		float numeroConta, saldo, saldoAtual, debito, credito;
 		Scanner imput = new Scanner (System.in);
