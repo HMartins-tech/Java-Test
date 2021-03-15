@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Dia6 {
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		String usuario;
 		int salarioFixo, parteVenda, valorCarro, carrosVendidos, totalVendas, salarioFinal, ganhoTotal;
