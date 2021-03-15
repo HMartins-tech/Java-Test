@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia15 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int horaMes, horaDia, salarioDia, salarioHora, salarioTotal, salarioTotal1, salarioExtra, horaExtra;
 		
