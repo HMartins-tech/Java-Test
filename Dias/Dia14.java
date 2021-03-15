@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia14 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int valor1, valor2;
 		Scanner imput = new Scanner (System.in);
