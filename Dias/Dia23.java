@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia23 {
-
+    @SuppressWarnings("resource")
     public static void main(String[] args) {
         float morango, maca, morango1, maca1, morango2, maca2, valor, valor1;
         morango1 = (float) 2.3;
