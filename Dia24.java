@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prova40 {
+public class Dia24 {
     @SuppressWarnings("unused")
     public static void main(String[] args) {
         String nome;
