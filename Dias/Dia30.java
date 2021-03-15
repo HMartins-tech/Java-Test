@@ -15,7 +15,5 @@ public class Tabuada {
             cont2 = 1;
             cont1 = cont1 + 1;
         }
-
     }
-
 }
