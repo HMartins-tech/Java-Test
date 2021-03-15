@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-	public class Dia12 {	
+	public class Dia12 {
+		@SuppressWarnings("resource")
 		public static void main(String[] args) {
 			float n1, n2, n3, n4, soma, mediaFinal;
 			Scanner imput = new Scanner (System.in);
