@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Dia18 {
-
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int estoqueAtual, estoqueMaximo, estoqueMinimo, quantidadeMedia;
 		Scanner imput = new Scanner (System.in);
