@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
   public class Dia11 {
+   	@SuppressWarnings("resource")
+
     public static void main(String[] args) {
       float maca, m, m2;
 
@@ -24,5 +26,5 @@ import java.util.Scanner;
         System.out.println(" ");
         System.out.println("O custo total das compras das maçãs foi de: " + m + "R$");
       }	
-}
+  }
 }
