@@ -16,7 +16,7 @@ public class Dia4 {
 		System.out.println("Entre com o porcentual do reajuste salarial: ");
 		reajuste = imput.nextInt();
 
-		salarioNovo = ((100 * salario) / reajuste);
+		salarioNovo = ((salario*reajuste)/100);
 		System.out.println("Seu novo salario mensal será de: " + salarioNovo + "R$");
 	}
 }
