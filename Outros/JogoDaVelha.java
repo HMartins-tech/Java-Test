@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JogoVelha {
+public class JogoDaVelha {
 	static String[][] tabuleiro = new String[3][3];
 
 	public static boolean verJogada(String simbolo, int x, int y) {
