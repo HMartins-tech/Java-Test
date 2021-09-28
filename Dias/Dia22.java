@@ -4,6 +4,7 @@ public class Dia22 {
 	
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
+		
 		Int valor1, valor2;
 		Scanner imput =  new Scanner (System.in);
 		
