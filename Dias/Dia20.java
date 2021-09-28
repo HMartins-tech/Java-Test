@@ -30,6 +30,7 @@ public class Dia20 {
 				soma = (valor3 + valor2);
 			}
 		}
+		
 		System.out.println("A soma entre os maiores numeros é: " + soma);
 	}
 }
