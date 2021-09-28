@@ -1,4 +1,4 @@
-public class Tabuada {
+public class Dia30 {
 
     public static void main(String args[]) {
 
