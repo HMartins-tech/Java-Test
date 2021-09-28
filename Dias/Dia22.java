@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Dia22 {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-		Int valor1, valor2, iguais, maior;
+		Int valor1, valor2;
 		Scanner imput =  new Scanner (System.in);
 		
 		System.out.println("Digite o primeiro valor: ");
