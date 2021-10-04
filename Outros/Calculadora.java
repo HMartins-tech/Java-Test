@@ -36,13 +36,13 @@ public class Calculadora {
 
 		Scanner imput = new Scanner(System.in);
 
-		System.out.println("-Escolha uma op��o-");
+		System.out.println("-Escolha uma opção: ");
 		System.out.println("1. Soma");
-		System.out.println("2. Subtra��o");
-		System.out.println("3. Multiplica��o");
-		System.out.println("4. Divis�o");
+		System.out.println("2. Subtração");
+		System.out.println("3. Multiplicação");
+		System.out.println("4. Divisão");
 		System.out.println("0. Sair");
-		System.out.println("Opera��o: ");
+		System.out.println("Operação: ");
 
 		opcao = imput.nextInt();
 
