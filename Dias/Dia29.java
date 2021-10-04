@@ -34,7 +34,7 @@ public class Dia29 {
         System.out.println("Digite o valor 9: ");
         n9 = imput.nextInt();
 
-        System.out.println("Digite o valor 11: ");
+        System.out.println("Digite o valor 10: ");
         n10 = imput.nextInt();
 
         soma = (n1 + n2 + n3 + n4 + n5 + n6 + n7 + n8 + n9 + n10);
